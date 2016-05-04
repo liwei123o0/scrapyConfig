@@ -1,0 +1,5 @@
+{
+  "site" : "百度网站",
+  "name":"spider",
+  "domain" : ["baidu.com"]
+}
